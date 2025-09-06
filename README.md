@@ -50,10 +50,3 @@ This project uses clinical data and machine learning to predict the likelihood o
 - 📌 Confusion matrix and label-based outputs
 
 ---
-
-## 🚀 How to Run the Project
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/nikhil-kumarrr/Machine-Learning-Project.git
-   cd Machine-Learning-Project
