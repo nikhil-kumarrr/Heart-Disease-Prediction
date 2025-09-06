@@ -4,14 +4,14 @@ This project uses clinical data and machine learning to predict the likelihood o
 
 ---
 
-## ✅ Features Included
+##  Features Included
 
-- ✅ Logistic Regression ML model
-- ✅ Performance metrics: Accuracy, Precision, Recall, F1 Score, ROC-AUC
-- ✅ Outlier detection using boxplots
-- ✅ ROC Curve plotted for performance visualization
-- ✅ Trained model exported as `.pkl` using `joblib`
-- ✅ Predicted results converted into readable class labels
+- Logistic Regression ML model
+- Performance metrics: Accuracy, Precision, Recall, F1 Score, ROC-AUC
+- Outlier detection using boxplots
+- ROC Curve plotted for performance visualization
+- Trained model exported as `.pkl` using `joblib`
+- Predicted results converted into readable class labels
 
 ---
 
