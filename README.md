@@ -1,4 +1,4 @@
-# 🫀 Heart Disease Prediction using Machine Learning
+# Heart Disease Prediction using Machine Learning
 
 This project uses clinical data and machine learning to predict the likelihood of a person having heart disease. The aim is to assist in early diagnosis using simple input features and a Logistic Regression model.
 
@@ -15,7 +15,7 @@ This project uses clinical data and machine learning to predict the likelihood o
 
 ---
 
-## 📊 Sample Metrics
+## Sample Metrics
 
 | Metric       | Score     |
 |--------------|-----------|
@@ -27,7 +27,7 @@ This project uses clinical data and machine learning to predict the likelihood o
 
 ---
 
-## 🧰 Libraries Used
+## Libraries Used
 
 - `pandas`, `numpy`
 - `matplotlib`, `seaborn`
@@ -36,7 +36,7 @@ This project uses clinical data and machine learning to predict the likelihood o
 
 ---
 
-## 🧪 Dataset Info
+##  Dataset Info
 
 - 
 - Source: Kaggle – https://www.kaggle.com/datasets/ritwikb3/heart-disease-statlog
@@ -45,7 +45,7 @@ This project uses clinical data and machine learning to predict the likelihood o
 
 ---
 
-## 📈 Visuals Included
+## Visuals Included
 
 - 📌 Boxplots to detect outliers
 - 📌 ROC Curve to analyze model discrimination ability
