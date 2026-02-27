@@ -112,7 +112,7 @@ html, body, [data-testid="stAppViewContainer"] {
 st.markdown("""
 <div class="header-box">
     <h1>Heart Disease Risk Predictor</h1>
-    <p>AI-powered clinical screening tool &nbsp;·&nbsp; Random Forest Model &nbsp;·&nbsp; For educational use only</p>
+    <p>AI-powered clinical screening tool &nbsp;·&nbsp; For educational use only</p>
 </div>
 """, unsafe_allow_html=True)
 
