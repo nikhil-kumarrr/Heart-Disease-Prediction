@@ -99,12 +99,12 @@ streamlit run app.py
 | Logistic Regression | 78.7% | 86.5% |
 | XGBoost | 78.7% | 84.3% |
 
-## 📊 Dataset
+## Dataset
 Available on Kaggle: https://www.kaggle.com/datasets/abhishek14398/heart-disease-classification
 
-## 🌐 Live Demo
+## Live Demo
 https://ai-heartdisease-predictor.streamlit.app/
 
-## 📸 Screenshots
+## Screenshots
 ![img alt](https://github.com/nikhil-kumarrr/images/blob/main/Screenshot%202026-02-27%20100131.png?raw=true)
 ![img alt](https://github.com/nikhil-kumarrr/images/blob/main/Screenshot%202026-02-27%20100145.png?raw=true)
